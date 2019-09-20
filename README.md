@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to my Digital Media Portfolio
 
 You can use the [editor on GitHub](https://github.com/Indyimagines/2020DigitalMediaProfile/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
